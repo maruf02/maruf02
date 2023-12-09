@@ -45,6 +45,91 @@
   </h3>
 </div>
 
+## My Recent Project:
+
+<div>
+
+  <h3>
+  <ul>
+  <li><b>Project Name: HRMS Solution</b></li>
+  <p><b>Project Type</b>:- Mern Management system</p>
+  <p><b>Technology</b>:- React, express, JWT (local storage), mongoose, mongo and firebase authentication.</p>
+  <p><b>Feature:</b> -
+        <div style='padding-left: 5px;'>
+        <ul style='padding-left: 55px;'>
+            <li>Implement Mongoose with MongoDB for a job fair system management.</li>
+            <li>Implement JWT (JSON Web Tokens) in local storage to verify tokens on both server and client sides.</li>
+            <li>Implement advanced React technologies like Tanstack Query, React Hook Form, Axios, etc.</li>
+        </ul>
+        </div>
+
+  </p>
+  <p>Live:- 
+  <a href="https://hrms-solution.web.app/">HRMS Solution</a>
+  </p>
+  <p>Github:- <ul></ul>
+  <ul style='padding-left: 55px;'><li>Client-Side: <a href="https://github.com/maruf02/HRMS-Solution">/maruf02/HRMS-Solution</a>
+            </li>
+            <li>Server:<a href="https://github.com/maruf02/HRMS-Solution-Server">/maruf02/HRMS-Solution-Server</a></li> 
+            </ul>
+  
+               
+  </p>
+
+   <li style='padding-top:30px'><b>Project Name: Seaside Ressort</b></li>
+    <p><b>Project Type</b>:- Mern Hotel Booking Management system</p>
+  <p><b>Technology</b>:- React, express, mongo, JWT (cookies) and firebase authentication.</p>
+  <p><b>Feature:</b> -
+        <div style='padding-left: 5px;'>
+        <ul style='padding-left: 55px;'>
+            <li>Implement JWT token with server side with authenticate token api.</li>
+            <li>Implement JWT token in cookies for client side validation with secure data
+fetching from mongo db.</li>
+            <li>Implement google authentication login with all user data collection in mongo db.</li>
+        </ul>
+        </div>
+
+  </p>
+  <p>Live:- 
+  <a href="https://hotelbook-system.web.app/">Seaside Ressort<</a>
+  </p>
+  <p>Github:- <ul></ul>
+  <ul style='padding-left: 55px;'><li>Client-Side: <a href="https://github.com/maruf02/Hotel-Booking-Client">/maruf02/Hotel-Booking-Client</a>
+            </li>
+            <li>Server:<a href="https://github.com/maruf02/Hotel-Booking-Server">/maruf02/Hotel-Booking-Server</a></li> 
+            </ul>
+  
+               
+  </p>
+
+  <li style='padding-top:30px'><b>Project Name: AutoMotive Solution</b></li>
+    <p><b>Project Type</b>:- Showroom Management system</p>
+  <p><b>Technology</b>:- React, express, mongo and firebase authentication.</p>
+  <p><b>Feature:</b> -
+        <div style='padding-left: 5px;'>
+        <ul style='padding-left: 55px;'>
+            <li>Implement mongodb with express js for storage data and fetching data.</li>
+            <li>Implement React private route with server validation</li>
+            <li>Implement firebase authentication with google authentication.</li>
+        </ul>
+        </div>
+
+  </p>
+  <p>Live:- 
+  <a href="https://autocar-client.web.app/">AutoMotive Solution</a>
+  </p>
+  <p>Github:- <ul></ul>
+  <ul style='padding-left: 55px;'><li>Client-Side: <a href="https://github.com/maruf02/Automotive-Brandshop-client">/maruf02/Automotive-Brandshop-client</a>
+            </li>
+            <li>Server:<a href="https://github.com/maruf02/Automotive-BrandShop-Server">/maruf02/Automotive-BrandShop-Server</a></li> 
+            </ul>
+  
+               
+  </p>
+  </ul>
+  </h3>
+</div>
+
 <!-- **maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
