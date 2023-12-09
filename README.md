@@ -138,9 +138,9 @@ fetching from mongo db.</li>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf02&theme=default)
 
-## Total Stats
+<!-- ## Total Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf02&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf02&theme=default) -->
 
 ## Commit summary
 
