@@ -1,12 +1,26 @@
-### Hi there 👋
-
 # overview
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf02&theme=transparent)](https://git.io/streak-stats)
+![Banner Image](/Images/banner.png)
+
+## Connect with me:
+
+<div align="center">
+   <a href="mailto:rashiduzzaman99@gmail.com" style="margin-right: 20px;">
+    <img src="./Images/email.png" alt="email Image" width="50" height="50" style="border-radius: 20px;">
+  </a>
+  <a href="https://www.linkedin.com/in/marufk20/" style="margin-right: 20px;">
+    <img src="./Images/linkdin.jpg" alt="linkdin Image" width="50" height="50" style="border-radius: 20px;">
+  </a>
+  <a href="https://maruf-k20.web.app/">
+    <img src="./Images/portfolio.jpg" alt="Banner Image" width="50" height="50" style="border-radius: 20px;">
+  </a>
+</div>
+
+## Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf02&theme=transparent&card_width=700)](https://git.io/streak-stats)
 
-**maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +31,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
