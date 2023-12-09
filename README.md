@@ -130,11 +130,21 @@ fetching from mongo db.</li>
   </h3>
 </div>
 
-## extra
+## Summary
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf02&theme=default)
 
+## Top Language
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf02&theme=default)
+
+## Total Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maruf02&theme=default)
+
+## Commit summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maruf02&theme=default&utcOffset=8)
 
 <!-- **maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
