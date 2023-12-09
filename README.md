@@ -91,7 +91,7 @@ fetching from mongo db.</li>
 
   </p>
   <p>Live:- 
-  <a href="https://hotelbook-system.web.app/">Seaside Ressort<</a>
+  <a href="https://hotelbook-system.web.app/">Seaside Ressort</a>
   </p>
   <p>Github:- <ul></ul>
   <ul style='padding-left: 55px;'><li>Client-Side: <a href="https://github.com/maruf02/Hotel-Booking-Client">/maruf02/Hotel-Booking-Client</a>
@@ -129,6 +129,12 @@ fetching from mongo db.</li>
   </ul>
   </h3>
 </div>
+
+## extra
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maruf02&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maruf02&theme=default)
 
 <!-- **maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
