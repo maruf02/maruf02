@@ -16,6 +16,10 @@
   </a>
 </div>
 
+## Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf02&theme=transparent&card_width=700)](https://git.io/streak-stats)
+
 ## Technologies what i familiar:
 
 <div align="center">
@@ -24,9 +28,22 @@
   </a>
 </div>
 
-## Stats:
+## What i Work:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maruf02&theme=transparent&card_width=700)](https://git.io/streak-stats)
+<div>
+
+  <h3>
+  <ul>
+  <li>Work with Html, css</li>
+  <li>Work with Tailwind css as a css framework</li>
+  <li>Work with React js for frontend technology</li>
+  <li>Work with Node js And express js For Backend technology</li>
+  <li>Work with Mongodb For Database</li>
+  <li>Work with JWT token As Secure for data as a beginner</li>
+  <li>Work with Firebase Authentication For login/Signup user</li>
+  </ul>
+  </h3>
+</div>
 
 <!-- **maruf02/maruf02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
