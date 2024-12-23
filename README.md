@@ -36,7 +36,7 @@
 
   <h3>
   <ul>
-  <li>Work with Html, css</li>
+  <li>Work with <span style="color: blue;">Html, css</span></li>
   <li>Work with Tailwind css as a css framework</li>
   <li>Work with React js,Redux, RTK Query for frontend technology</li>
   <li>Work with Node js And express js For Backend technology</li>
@@ -49,8 +49,9 @@
   </h3>
 </div>
 
-## My Recent Project:
 <!--
+## My Recent Project:
+
 <div>
 
   <h3>
