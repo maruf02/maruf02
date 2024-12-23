@@ -22,7 +22,7 @@
 
 ## Technologies what i familiar:
 
-<div align="center margin-x:auto">
+<div align="center">
    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,expressjs,nextjs,mongo,postgres,prisma,html,css,github,firebase,figma,postman" alt="My Skills">
