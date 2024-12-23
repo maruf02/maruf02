@@ -22,10 +22,12 @@
 
 ## Technologies what i familiar:
 
-<div align="center flex flex-row flex-wrap">
+<div align="center">
+   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,redux,nodejs,expressjs,nextjs,mongo,postgres,prisma,html,css,github,firebase,figma,postman" alt="My Skills">
   </a>
+</div>
 </div>
 
 ## About me (What i Work):
