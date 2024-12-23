@@ -38,10 +38,11 @@
   <ul>
   <li>Work with Html, css</li>
   <li>Work with Tailwind css as a css framework</li>
-  <li>Work with React js for frontend technology</li>
+  <li>Work with React js,Redux, RTK Query for frontend technology</li>
   <li>Work with Node js And express js For Backend technology</li>
-  <li>Work with Mongodb For Database</li>
+  <li>Work with Mongodb,Mongoose, PostgreSql, Prisma ORM For Database</li>
   <li>Work with JWT token As Secure for data as a beginner</li>
+  <li>Work with nodemailer, SMTP for sending email as a beginner</li>
   <li>Work with Firebase Authentication For login/Signup user</li>
   </ul>
   </h3>
