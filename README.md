@@ -34,6 +34,22 @@
 
 <div>
 
+  <ul>
+    <li>Work with <strong><span style="color: blue;">Html, css</span></strong></li>
+    <li>Work with <strong><span style="color: blue;"> Tailwind css </span></strong> as a CSS framework</li>
+    <li>Work with <strong><span style="color: blue;"> React JS, Redux, RTK Query </span></strong> for frontend technology</li>
+    <li>Work with <strong><span style="color: blue;"> Node JS and Express JS </span></strong> for backend technology</li>
+    <li>Work with <strong><span style="color: blue;"> MongoDB, Mongoose, PostgreSQL, Prisma ORM </span></strong> for database</li>
+    <li>Work with <strong><span style="color: blue;"> JWT token </span></strong> for secure data handling as a beginner</li>
+    <li>Work with <strong><span style="color: blue;"> Nodemailer, SMTP </span></strong> for sending emails as a beginner</li>
+    <li>Work with <strong><span style="color: blue;">AmarPay </span></strong> for payment gateway as a beginner</li>
+    <li>Work with Firebase Authentication for login/signup functionality</li>
+  </ul>
+  
+</div>
+<!--
+<div>
+
   <h3>
   <ul>
   <li>Work with <span style="color: blue;">Html, css</span></li>
@@ -48,6 +64,7 @@
   </ul>
   </h3>
 </div>
+-->
 
 <!--
 ## My Recent Project:
