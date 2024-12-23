@@ -43,6 +43,7 @@
   <li>Work with Mongodb,Mongoose, PostgreSql, Prisma ORM For Database</li>
   <li>Work with JWT token As Secure for data as a beginner</li>
   <li>Work with nodemailer, SMTP for sending email as a beginner</li>
+  <li>Work with amaarPay for payment gateway as a beginner</li>
   <li>Work with Firebase Authentication For login/Signup user</li>
   </ul>
   </h3>
