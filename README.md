@@ -50,7 +50,7 @@
 </div>
 
 ## My Recent Project:
-
+<!--
 <div>
 
   <h3>
@@ -133,6 +133,7 @@ fetching from mongo db.</li>
   </ul>
   </h3>
 </div>
+-->
 
 ## Summary
 
